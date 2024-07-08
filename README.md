@@ -1,5 +1,7 @@
 **Repository Name:** neurosoft-1992-2008-EEG-export-automation-tool
+
 **Description:** Dearest Prof. Dr. Atilla Altunel, who is a retired neurologist, wanted to share his retrospective EEG recordings with us. He shared a Neurosoft “data-base” with us. We got the data, and we contacted the Neurosoft distributor in Turkey, who loaded the optimal application to our computer to make us open this database. However, since this application is an old one that ended in 2008, there were no multiple export options for EEG recordings. With this code, we exported all recordings, annotations, and internal EEG reports.
+
 This repository contains an automation tool designed to streamline the process of exporting EEG data from Neurosoft software for the years 1992 to 2008. The tool uses image recognition and OCR to navigate the software's interface and extract relevant data, saving significant time and effort in data management tasks.
 
 **Prerequisites:**
