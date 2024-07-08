@@ -23,7 +23,7 @@ This repository contains an automation tool designed to streamline the process o
 **Installation:**
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/neurosoft-1992-2008-EEG-export-automation-tool.git
+   git clone https://github.com/alparslanonder/neurosoft-1992-2008-EEG-export-automation-tool.git
    ```
 2. **Navigate to the project directory:**
    ```sh
